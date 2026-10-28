@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Watch TV
+GenericName=TV Player
+Comment=Watch Live TV from HDHomeRun
+Exec=watch-tv
+Icon=kids-tv
+Terminal=false
+Categories=AudioVideo;Video;Player;TV;
+StartupNotify=true
